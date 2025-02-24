@@ -15,7 +15,7 @@ Skating Board School is a modern and engaging website designed to provide compre
 - **Testimonials**: Read what our students have to say about their experiences at Skating X.
 ## 🌐 Live Demo
 
-The website is live! You can visit it at [Skating Board School Live](http://sbs.netlify.app) to see it in action.
+The website is live! You can visit it at [Skating Board School Live](https://skating-board.netlify.app/) to see it in action.
 
 ## 📸 Screenshots
 
