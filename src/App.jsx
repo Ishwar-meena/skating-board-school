@@ -19,7 +19,7 @@ function App() {
             <p className='uppercase  font-medium  '>Read more</p>
           </div>
           <div className="skating-img mt-9 lg:mt-0">
-            <img src="images/banner_img.png" alt="banner" className='w-[80%]' />
+            <img src="images/homepage.png" alt="banner" className='w-[80%]' />
           </div>
         </div>
         <div className="next-prev-btn mt-6">
